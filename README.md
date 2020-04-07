@@ -3,6 +3,7 @@
 Follow these steps to run the code
 
 1.Amoung many softwares I recommend using Pycharm software to code
+
 go to https://www.jetbrains.com/pycharm/download/#section=windows 
 then download community version for free
 
