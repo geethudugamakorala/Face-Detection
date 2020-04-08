@@ -22,4 +22,4 @@ while True:
 video.release()                     #stop using webcam
 cv2.destroyAllWindows()             #close the window
 
-#In theddnd while loop its actually does is processing single frame at a time and displaying them in higher speed.That makes it a video
+#In the while loop its actually does is processing single frame at a time and displaying them in higher speed.That makes it a video
