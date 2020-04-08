@@ -24,4 +24,4 @@ then download community version for free
 7.Open(double click) videofacerecog.py file and right click on the code,then click Run videofacerecog.py 
    
 
-#If there is any problem please let me know
+* If there is any problem please let me know
