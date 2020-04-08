@@ -13,7 +13,7 @@ then download community version for free
 
 4.There is a tab called terminal in the lower left ,click it ,In the terminal type 
 
-                                      pip install opencv-python
+    pip install opencv-python
                                       
   then enter.If error appear try installing pip on the computer
 
